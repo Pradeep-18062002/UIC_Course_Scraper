@@ -28,4 +28,5 @@ The output CSV contains:
    ```bash
    git clone https://github.com/your-username/uic-cs-course-scraper.git
    cd uic-cs-course-scraper
-2. python scraper.py
+2. Run the file
+   python scraper.py
